@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleResources</string>
+    <string name= "textView">String Resource Example </string>
+<string-array name="flavours">
+    <item>Vanilla</item>
+    <item>Strawberry</item>
+    <item>caramel</item>
+    <item>Chocolate</item>
+</string-array>
+</resources>

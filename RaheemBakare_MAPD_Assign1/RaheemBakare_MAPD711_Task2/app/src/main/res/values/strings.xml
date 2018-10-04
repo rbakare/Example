@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RaheemBakare_MAPD711_Task2</string>
+    <string name="textView1">Full Name: Raheem Bakare</string>
+    <string name="textView2">Qualification: B.sc</string>
+    <string name="textView3">Profession: Student</string>
+    <string name="textView4">Hobby: Football</string>
+    <string name="textView5">Dream Job:Mobile Developer</string>
+</resources>
